@@ -1,4 +1,4 @@
-## Project Overview: Voice to Text Converter
+## Overview: Voice to Text Converter
 
 ### Description
 This project is a web application designed to convert spoken Arabic language into written text. The application leverages modern web technologies and a user-friendly interface to facilitate the seamless transformation of voice input into text.
